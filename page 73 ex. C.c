@@ -22,3 +22,6 @@ int main()
 	else
 		printf("the array is not sort!!");
 }
+typdef struct{
+	int x;
+}MySecretStruct
